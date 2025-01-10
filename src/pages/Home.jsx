@@ -13,7 +13,7 @@ const hotels = [
       "Hompton by the Beach Penang is a 4-star hotel along the strategic Tanjung Tokong seafront that embodies both business and pleasure, offering travellers a home away from home...",
   },
   {
-    image: require("../assets/bertam-resort-water-park.jpg"),
+    image: require("./assets/bertam-resort-water-park.jpg"),
     title: "Bertam Resort and Water Park",
     description:
       "Integrated 5-Star Resort in Penang. Experience luxury at the resort, featuring a 15-rides waterpark, convention center, and spa...",
