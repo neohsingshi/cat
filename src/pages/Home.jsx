@@ -106,7 +106,8 @@ function Home() {
         <h2>Tourist Spot</h2>
         <div className="scenic-container">
           <div className="scenic-card">
-            <img src={require("../assets/penanghill.jpeg")} alt="Penang Hill" />
+            <img src="/assets/penanghill.jpeg" alt="Penang Hill" />
+
             <h3>Penang Hill</h3>
             <p>
               Penang Hill is a hill resort comprising a group of peaks on
